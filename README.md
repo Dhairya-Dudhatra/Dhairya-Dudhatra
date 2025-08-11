@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <h1 align="center">I'm Dhairya Dudhatra</h1>
-<h3 align="center">Passionate about Kubernetes, Cloud-Native and Open-Source World</h3>
+<h3 align="center">Passionate about Linux, Kubernetes, Complex systems and Open-Source World</h3>
 
-- 💞️ I'm interested in automation, microservices, distributed systems, and cloud modernization 
+- 💞️ I'm interested in automation, Distributed systems, AI/ML Infra.
 - 🌱 I'm addicted to learning and growing every day
 - 📫 How to reach me **dhairyadudhatra@gmail.com**
 
